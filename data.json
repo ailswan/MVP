@@ -1,0 +1,242 @@
+[
+  {
+    "address": "202-14 116th Ave #A, Saint Albans, NY 11412",
+    "price": "$679,999",
+    "img": "https://photos.zillowstatic.com/fp/59f792a14db97d6815f2e7f53c288a8b-p_e.jpg"
+  },
+  {
+    "address": "65-35 223rd Pl #B, Oakland Gardens, NY 11364",
+    "price": "$349,000",
+    "img": "https://photos.zillowstatic.com/fp/5c140d0fe26a054199ff665940e27741-p_e.jpg"
+  },
+  {
+    "address": "8351 Commonwealth Blvd, Jamaica, NY 11426",
+    "price": "$889,000",
+    "img": "https://photos.zillowstatic.com/fp/a395d9639d88e789f3f64c4029f96326-p_e.jpg"
+  },
+  {
+    "address": "2317 Pacific St #A, Brooklyn, NY 11233",
+    "price": "$1,295,000",
+    "img": "https://photos.zillowstatic.com/fp/808fee53ec95cb6121a7bb6e8f9a22b0-p_e.jpg"
+  },
+  {
+    "address": "36 Gramercy Park E APT 5N, New York, NY 10003",
+    "price": "$5,496,000",
+    "img": "https://photos.zillowstatic.com/fp/87c153402d7bf4e7608afb5694b1fc30-p_e.jpg"
+  },
+  {
+    "address": "310 W 52nd St APT 7C, New York, NY 10019",
+    "price": "$986,000",
+    "img": "https://photos.zillowstatic.com/fp/d5e04de7ae6f7ca298be247e6838306f-p_e.jpg"
+  },
+  {
+    "address": "334 Eldert St, Brooklyn, NY 11237",
+    "price": "$1,350,000",
+    "img": "https://photos.zillowstatic.com/fp/bf776dd57f5c93581d0d86670065a4f1-p_e.jpg"
+  },
+  {
+    "address": "4102 8th Ave #4G, Brooklyn, NY 11232",
+    "price": "$635,000",
+    "img": "https://photos.zillowstatic.com/fp/514532a820e0e75e95e2bb85314b1bb0-p_e.jpg"
+  },
+  {
+    "address": "141-20 Cherry Ave #2C, Flushing, NY 11355",
+    "price": "$545,000",
+    "img": "https://photos.zillowstatic.com/fp/60572d6bb7be880f911248593a15ef9b-p_e.jpg"
+  },
+  {
+    "address": "65-35 223rd Pl #B, Oakland Gardens, NY 11364",
+    "price": "$349,000",
+    "img": "https://photos.zillowstatic.com/fp/5c140d0fe26a054199ff665940e27741-p_e.jpg"
+  },
+  {
+    "address": "8351 Commonwealth Blvd, Jamaica, NY 11426",
+    "price": "$889,000",
+    "img": "https://photos.zillowstatic.com/fp/a395d9639d88e789f3f64c4029f96326-p_e.jpg"
+  },
+  {
+    "address": "2317 Pacific St #A, Brooklyn, NY 11233",
+    "price": "$1,295,000",
+    "img": "https://photos.zillowstatic.com/fp/808fee53ec95cb6121a7bb6e8f9a22b0-p_e.jpg"
+  },
+  {
+    "address": "36 Gramercy Park E APT 5N, New York, NY 10003",
+    "price": "$5,496,000",
+    "img": "https://photos.zillowstatic.com/fp/87c153402d7bf4e7608afb5694b1fc30-p_e.jpg"
+  },
+  {
+    "address": "310 W 52nd St APT 7C, New York, NY 10019",
+    "price": "$986,000",
+    "img": "https://photos.zillowstatic.com/fp/d5e04de7ae6f7ca298be247e6838306f-p_e.jpg"
+  },
+  {
+    "address": "334 Eldert St, Brooklyn, NY 11237",
+    "price": "$1,350,000",
+    "img": "https://photos.zillowstatic.com/fp/bf776dd57f5c93581d0d86670065a4f1-p_e.jpg"
+  },
+  {
+    "address": "4102 8th Ave #4G, Brooklyn, NY 11232",
+    "price": "$635,000",
+    "img": "https://photos.zillowstatic.com/fp/514532a820e0e75e95e2bb85314b1bb0-p_e.jpg"
+  },
+  {
+    "address": "141-20 Cherry Ave #2C, Flushing, NY 11355",
+    "price": "$545,000",
+    "img": "https://photos.zillowstatic.com/fp/60572d6bb7be880f911248593a15ef9b-p_e.jpg"
+  },
+  {
+    "address": "1611 Plymouth Ave #A, Bronx, NY 10461",
+    "price": "$749,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "3 Ives Ct, Far Rockaway, NY 11691",
+    "price": "$550,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "60 54pl #54PL, Maspeth, NY 11378",
+    "price": "$799,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "77 Clarkson Ave APT 2E, Brooklyn, NY 11226",
+    "price": "$499,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "182 Rockaway Ave, Brooklyn, NY 11233",
+    "price": "$1,250,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "1509 Bergen St APT 112, Brooklyn, NY 11213",
+    "price": "$549,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "141-18 Cherry Ave #4D, Flushing, NY 11355",
+    "price": "$695,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "186-39 140th Ave, Springfield Gardens, NY 11413",
+    "price": "$788,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "1098 E 73rd St #49, Brooklyn, NY 11234",
+    "price": "$255,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "343 W 12th St APT 4A, New York, NY 10014",
+    "price": "$799,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "33-66 Farrington St #12A, Flushing, NY 11354",
+    "price": "$1,496,260",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "848 E 218th St, Bronx, NY 10467",
+    "price": "$510,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "470 Lake St, Brooklyn, NY 11223",
+    "price": "$775,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "57 Avenue O APT B7, Brooklyn, NY 11204",
+    "price": "$290,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "25-47 Steinway St #1, Astoria, NY 11103",
+    "price": "$2,495,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "146-02-A 182nd St, Springfield Gardens, NY 11413",
+    "price": "$1,200,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "6602 12th Ave, Brooklyn, NY 11219",
+    "price": "$2,189,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "1664 64th St, Brooklyn, NY 11204",
+    "price": "$1,499,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "128 Bay 43 St UNIT 1C, Brooklyn, NY 11214",
+    "price": "$669,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "382 Keap St #A, Brooklyn, NY 11211",
+    "price": "$2,499,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "225 Adams St APT 4F, Brooklyn, NY 11201",
+    "price": "$525,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "27-21 44th Dr #1904, Long Island City, NY 11101",
+    "price": "$949,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "166 E 63rd St APT 17C, New York, NY 10065",
+    "price": "$1,980,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "20526 115th Rd, Jamaica, NY 11412",
+    "price": "$679,990",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "118-06 225th St, Cambria Heights, NY 11411",
+    "price": "$675,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "6918 Caldwell Ave, Flushing, NY 11378",
+    "price": "$899,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "255 Underhill Ave, Bronx, NY 10473",
+    "price": "$699,999",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "1918 Avenue N #6A, Brooklyn, NY 11230",
+    "price": "$749,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "260 Ocean Pkwy APT 3J, Brooklyn, NY 11218",
+    "price": "$569,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "128 Champlain Ave, Staten Island, NY 10306",
+    "price": "$664,900",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "address": "56-58 Spring St #846/17, Staten Island, NY 10304",
+    "price": "$1,599,000",
+    "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  }
+]
